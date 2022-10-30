@@ -1,0 +1,1 @@
+    for i = 1, 10000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("
